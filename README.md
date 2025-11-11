@@ -20,11 +20,11 @@ You can copy and paste these icons directly into your projects or presentations.
 
 ### ➤ Using in Web Projects
 
-You can reference icons directly in your HTML:
+You can reference icons directly in your HTML (for example):
 
 ```html
 <img
-  src="assets/Mental Health/mental_health_icon.png"
+  src="assets/PNG/Mental Health/mental_health_icon.png"
   alt="Mental health icon"
 />
 ```
