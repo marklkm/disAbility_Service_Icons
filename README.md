@@ -35,7 +35,3 @@ use PNG files. 🧩 Accessibility Notes Use descriptive alt text for all icons
 and documents. SVGs scale clearly on web and print materials. 🏛️ Credits Created
 and curated by the Trinity disAbility Service, Trinity College Dublin. All icons
 and artworks © their respective creators.
-
-```
-
-```
