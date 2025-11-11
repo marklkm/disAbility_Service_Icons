@@ -27,6 +27,7 @@ You can reference icons directly in your HTML:
   src="assets/Mental Health/mental_health_icon.png"
   alt="Mental health icon"
 />
+```
 
 For scalable graphics, use SVG files whenever possible. For fixed-size images,
 use PNG files. 🧩 Accessibility Notes Use descriptive alt text for all icons
@@ -34,4 +35,7 @@ use PNG files. 🧩 Accessibility Notes Use descriptive alt text for all icons
 and documents. SVGs scale clearly on web and print materials. 🏛️ Credits Created
 and curated by the Trinity disAbility Service, Trinity College Dublin. All icons
 and artworks © their respective creators.
+
+```
+
 ```
