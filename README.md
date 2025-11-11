@@ -18,9 +18,20 @@ You can copy and paste these icons directly into your projects or presentations.
 3. Select an icon from the appropriate folder (PNG or SVG).
 4. Resize or reposition as needed.
 
+### ➤ Using in Web Projects
+
+You can reference icons directly in your HTML:
+
+```html
+<img
+  src="assets/Mental Health/mental_health_icon.png"
+  alt="Mental health icon"
+/>
+
 For scalable graphics, use SVG files whenever possible. For fixed-size images,
 use PNG files. 🧩 Accessibility Notes Use descriptive alt text for all icons
 (e.g. “mental health icon showing heart and brain”). PNGs are ideal for slides
 and documents. SVGs scale clearly on web and print materials. 🏛️ Credits Created
 and curated by the Trinity disAbility Service, Trinity College Dublin. All icons
 and artworks © their respective creators.
+```
